@@ -1,0 +1,2 @@
+# Databasfiler
+ Mibdb
